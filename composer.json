@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Carnage\\BingImageExtractor\\": "src"
+            "VashuKarn\\BingImageExtractor\\": "src"
         }
     },
     "authors": [
