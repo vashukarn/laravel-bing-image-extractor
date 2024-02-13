@@ -50,7 +50,7 @@ class BingImageExtractor
         };
     }
 
-    private function checkRemoteFile($url): bool
+    protected function checkRemoteFile($url): bool
     {
         $ch = curl_init($url);
         curl_setopt_array($ch, [
