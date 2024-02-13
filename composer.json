@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Carnage\\BingImageExtractor\\": "packages/carnage/bing_image_extractor/src"
+            "Carnage\\BingImageExtractor\\": "src"
         }
     },
     "authors": [
