@@ -1,0 +1,20 @@
+{
+    "name": "carnage/bing_image_extractor",
+    "description": "The Bing Image Extractor for Laravel is a convenient package designed to simplify the process of fetching images from Bing based on user-input text queries. With seamless integration into your Laravel application, this package provides a streamlined solution for developers seeking to incorporate image extraction functionality into their projects.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Carnage\\BingImageExtractor\\": "packages/carnage/bing_image_extractor/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vashu Karn",
+            "email": "jaykarvashu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
